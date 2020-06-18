@@ -13,6 +13,7 @@ class Graf
         int[,] mat = new int[n, n];
         // Студенты, которым пришло сообщение.
         int[,] know = new int[n, n];
+        // Сумма сообщений, которые были отправлены.
         int sum = 0;
         for (int i = 0; i < n; i++)
         {
@@ -100,7 +101,7 @@ class Graf
                 }
             }
 
-            if (degseq[0] != -1)
+            if (degseq[0] != 0)
             {
                 printMat(degseq, n);
                 Console.ReadKey();
