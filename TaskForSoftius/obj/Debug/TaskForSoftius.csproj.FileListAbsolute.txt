@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\bin\Debug\TaskForSoftius.exe.config
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\bin\Debug\TaskForSoftius.exe
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\bin\Debug\TaskForSoftius.pdb
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\obj\Debug\TaskForSoftius.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\obj\Debug\TaskForSoftius.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\obj\Debug\TaskForSoftius.exe
+C:\Users\user\source\repos\TaskForSoftius\TaskForSoftius\obj\Debug\TaskForSoftius.pdb
